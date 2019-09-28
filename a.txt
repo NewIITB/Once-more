@@ -1,2 +1,5 @@
 deleted all line
 let's see now
+
+does it show addition of current logs- previous or whole
+i think current
